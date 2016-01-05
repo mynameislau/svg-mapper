@@ -1,6 +1,6 @@
 {
 	"verbose": true,
-	"esnext": true,
+	"esnext": null,
 
 	"disallowParenthesesAroundArrowParam": true,
 	"requireArrowFunctions": true,
